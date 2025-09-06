@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  page-navigation: true
+  title: "Yanping Weng"
+  site-url: https://wengyanping.github.io
+  favicon: misc/info/favicon.png
+  repo-url: https://github.com/yan-ww/wengyanping.github.io
+  repo-actions: [edit, issue]
+  
+  page-footer: 
+    left: "&copy; Copyright 2025, Yanping Weng"
+    right: 
+      - icon: github
+        href: https://github.com/yan-ww/wengyanping.github.io
+
+  navbar: 
+    background: "#A9CCE3"
+    search: true
+    right: 
+      - text: "Projects"
+        href: Projects/projects.qmd
+      
+      - text: "Publications"
+        href: Publication/publication.qmd
+        
+      #- text: "R packages"
+      #  href: rpkg/rpkg.qmd
+           
+      #- text: "Talks"
+      #  href: talks/talks.qmd
+
+      - text: "Blog/notes"
+        href: blog/blog.qmd
+        
+      - text: "About me"
+        href: about_me.qmd
+        
+      - text: "CV"
+        href: misc\info\CV_for_personal_page.pdf
+
+
+format:
+  html:
+    theme: styles.scss

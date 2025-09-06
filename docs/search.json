@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yanping Weng",
+    "section": "",
+    "text": "yanping.weng@outlook.com\n  \n  \n    \n     yan-ww\n  \n  \n    \n     Yanping Weng\n  \n\n  \n  \nHello!\nI am pursuing a Phd position in bioinformatics.\nIn a previous role, I worked at the Faculty of Medicine, University of Oslo. I’m mostly interested in RWD (real-world data), such as hospital Electronic Health Record and large public health registry data. I develop ggehr, a ggplot2 extension to visualizing EHR data.\nIn 2020-2022, I worked as part of the COVID emergency response at the Norwegian Institute of Public Health. I helped develop the open source real-time analysis and public health surveillance system, Sykdomspulsen (now CSIDS). I am co-leading CAMIS working group.\nAs a part-time lecturer, I teach statistics with R and Quarto at Oslo Centre for Biostatistics and Epidemiology (OCBE) and R programming at the Carpentries workshops at UiO.\nI enjoy cooking and spending time in the mountains."
+  }
+]
