@@ -1,0 +1,13 @@
+## Publications
+
+### Manuscripts
+1. **Yanping Weng**, Yu Ma, Li Jin, Yi Wang,Yu An. *Transcriptomic subtypes and regulatory patterns of refractory epilepsy revealed by network-based analysis.*  
+   Submitted to *Epilepsia*, currently under review.
+
+### Theses
+- **Master’s Thesis (2024):** *Integrative transcriptomic analysis of brain lesions in refractory epilepsy using network-based machine learning.*  
+  Fudan University, Human Phenome Institute.
+
+### Software & Workflows
+- **Bioinformatics Pipelines (GitHub):** Developed reproducible analysis workflows in WDL/Docker for cfDNA methylation, cfRNA diagnostics, and single-cell transcriptomics.  
+  [View on GitHub](https://github.com/yan-ww)

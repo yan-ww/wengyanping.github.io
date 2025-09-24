@@ -1,9 +1,72 @@
 [
   {
+    "objectID": "Publication/publications.html",
+    "href": "Publication/publications.html",
+    "title": "Yanping Weng",
+    "section": "",
+    "text": "Yanping Weng, Yu Ma, Li Jin, Yi Wang,Yu An. Transcriptomic subtypes and regulatory patterns of refractory epilepsy revealed by network-based analysis.\nSubmitted to Epilepsia, currently under review.\n\n\n\n\n\nMaster’s Thesis (2024): Integrative transcriptomic analysis of brain lesions in refractory epilepsy using network-based machine learning.\nFudan University, Human Phenome Institute.\n\n\n\n\n\nBioinformatics Pipelines (GitHub): Developed reproducible analysis workflows in WDL/Docker for cfDNA methylation, cfRNA diagnostics, and single-cell transcriptomics.\nView on GitHub"
+  },
+  {
+    "objectID": "Publication/publications.html#publications",
+    "href": "Publication/publications.html#publications",
+    "title": "Yanping Weng",
+    "section": "",
+    "text": "Yanping Weng, Yu Ma, Li Jin, Yi Wang,Yu An. Transcriptomic subtypes and regulatory patterns of refractory epilepsy revealed by network-based analysis.\nSubmitted to Epilepsia, currently under review.\n\n\n\n\n\nMaster’s Thesis (2024): Integrative transcriptomic analysis of brain lesions in refractory epilepsy using network-based machine learning.\nFudan University, Human Phenome Institute.\n\n\n\n\n\nBioinformatics Pipelines (GitHub): Developed reproducible analysis workflows in WDL/Docker for cfDNA methylation, cfRNA diagnostics, and single-cell transcriptomics.\nView on GitHub"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yanping Weng",
     "section": "",
-    "text": "yanping.weng@outlook.com\n  \n  \n    \n     yan-ww\n  \n  \n    \n     Yanping Weng\n  \n\n  \n  \nHello!\nI am pursuing a Phd position in bioinformatics.\nI enjoy cooking and spending time in the mountains."
+    "text": "yanping.weng@outlook.com\n  \n  \n    \n     yan-ww\n  \n  \n    \n     Yanping Weng\n  \n\n  \n  \nHello, and welcome!\nI am Yanping Weng, a bioinformatics scientist with a Master’s degree from Fudan University.\nMy research focuses on computational genomics, single-cell and multi-omics analysis, and machine learning for biomarker discovery.\nI am currently preparing for PhD studies to further explore the intersection of artificial intelligence and biomedical research."
+  },
+  {
+    "objectID": "about_me.html",
+    "href": "about_me.html",
+    "title": "Yanping Weng",
+    "section": "",
+    "text": "My name is Yanping Weng, and I am passionate about using computational approaches to understand biology and medicine.\nI hold a Master’s degree in Bioinformatics from Fudan University, where I worked on transcriptomic data from patients with refractory epilepsy. In my thesis project, I applied statistical and network-based machine learning methods to identify molecular subtypes and regulatory patterns, an experience that deepened my motivation to bridge computational biology with clinical relevance.\nAfter graduation, I joined GenePlus as a Bioinformatics Scientist, where I worked on cfDNA methylation– and cfRNA-based diagnostics for organ transplantation and sepsis. In these projects, I developed scalable pipelines using WDL and Docker, implemented algorithms such as NNLS and MLE, and integrated biological insights into clinically oriented workflows. These experiences taught me how to manage large, heterogeneous datasets, ensure reproducibility, and translate computational models into applications with real-world impact.\nI also gained hands-on experience analyzing single-cell RNA-seq data to identify cell-type–specific expression markers, which sparked my continuing interest in single-cell and multi-omics approaches. Beyond my professional work, I maintain a GitHub repository where I share analysis workflows and scripts for genomics and transcriptomics, reflecting my commitment to open science and reproducibility.\nLooking ahead, I am eager to pursue a PhD in computational biology, with particular interest in combining machine learning, multi-omics, and systems medicine. My long-term goal is to contribute to the development of computational methods that advance our understanding of disease mechanisms and enable precision medicine.\nOutside of research, I enjoy writing, learning new programming languages, and following advances at the interface of AI and biology. This website is a place where I share my projects, publications, and thoughts along the way."
+  },
+  {
+    "objectID": "about_me.html#about-me",
+    "href": "about_me.html#about-me",
+    "title": "Yanping Weng",
+    "section": "",
+    "text": "My name is Yanping Weng, and I am passionate about using computational approaches to understand biology and medicine.\nI hold a Master’s degree in Bioinformatics from Fudan University, where I worked on transcriptomic data from patients with refractory epilepsy. In my thesis project, I applied statistical and network-based machine learning methods to identify molecular subtypes and regulatory patterns, an experience that deepened my motivation to bridge computational biology with clinical relevance.\nAfter graduation, I joined GenePlus as a Bioinformatics Scientist, where I worked on cfDNA methylation– and cfRNA-based diagnostics for organ transplantation and sepsis. In these projects, I developed scalable pipelines using WDL and Docker, implemented algorithms such as NNLS and MLE, and integrated biological insights into clinically oriented workflows. These experiences taught me how to manage large, heterogeneous datasets, ensure reproducibility, and translate computational models into applications with real-world impact.\nI also gained hands-on experience analyzing single-cell RNA-seq data to identify cell-type–specific expression markers, which sparked my continuing interest in single-cell and multi-omics approaches. Beyond my professional work, I maintain a GitHub repository where I share analysis workflows and scripts for genomics and transcriptomics, reflecting my commitment to open science and reproducibility.\nLooking ahead, I am eager to pursue a PhD in computational biology, with particular interest in combining machine learning, multi-omics, and systems medicine. My long-term goal is to contribute to the development of computational methods that advance our understanding of disease mechanisms and enable precision medicine.\nOutside of research, I enjoy writing, learning new programming languages, and following advances at the interface of AI and biology. This website is a place where I share my projects, publications, and thoughts along the way."
+  },
+  {
+    "objectID": "Projects/projects.html",
+    "href": "Projects/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is a selection of my research and applied projects in bioinformatics, spanning transcriptomics, liquid biopsy, and workflow development.\n\n\n\n\nContext: Independent research project at Fudan University, focusing on transcriptomic data from patients with refractory epilepsy.\n\nApproach: Applied statistical machine learning and weighted correlation network analysis to identify molecular subtypes and regulatory patterns.\n\nOutcome: Identified two molecular subtypes with distinct regulatory networks. First-author manuscript submitted to Epilepsia (under review).\n\n\n\n\n\n\nContext: Developed diagnostic tools for transplantation monitoring at GenePlus.\n\nApproach: Designed methylation-based classifiers using NNLS and MLE; implemented scalable workflows with WDL/Docker.\n\nOutcome: Contributed to the “YiZhiAn” liquid biopsy assay for clinical application.\n\nLinks: Assay Introduction\n\n\n\n\n\n\nContext: Built a pipeline for cfRNA analysis to support sepsis diagnostics.\n\nApproach: Integrated multi-omics and single-cell RNA-seq reference data for cell-type deconvolution and biomarker discovery.\n\nOutcome: Developed a deployable workflow integrated into the company’s LIMS system.\n\n\n\n\n\n\nContext: Open-source pipelines for genomics and transcriptomics data analysis.\n\nApproach: Built in WDL/Docker; designed for reproducibility and scalability on Linux/HPC environments.\n\nOutcome: Publicly available on GitHub; includes workflows for single-cell RNA-seq, RNA-seq, and cfDNA methylation analysis.\n\nLinks: GitHub Repository"
+  },
+  {
+    "objectID": "Projects/projects.html#transcriptomic-subtypes-of-refractory-epilepsy-masters-thesis-2024",
+    "href": "Projects/projects.html#transcriptomic-subtypes-of-refractory-epilepsy-masters-thesis-2024",
+    "title": "Projects",
+    "section": "",
+    "text": "Context: Independent research project at Fudan University, focusing on transcriptomic data from patients with refractory epilepsy.\n\nApproach: Applied statistical machine learning and weighted correlation network analysis to identify molecular subtypes and regulatory patterns.\n\nOutcome: Identified two molecular subtypes with distinct regulatory networks. First-author manuscript submitted to Epilepsia (under review)."
+  },
+  {
+    "objectID": "Projects/projects.html#cfdna-methylation-assay-for-kidney-transplant-rejection-industry-project-2025",
+    "href": "Projects/projects.html#cfdna-methylation-assay-for-kidney-transplant-rejection-industry-project-2025",
+    "title": "Projects",
+    "section": "",
+    "text": "Context: Developed diagnostic tools for transplantation monitoring at GenePlus.\n\nApproach: Designed methylation-based classifiers using NNLS and MLE; implemented scalable workflows with WDL/Docker.\n\nOutcome: Contributed to the “YiZhiAn” liquid biopsy assay for clinical application.\n\nLinks: Assay Introduction"
+  },
+  {
+    "objectID": "Projects/projects.html#cfrna-based-sepsis-detection-pipeline-industry-project-2025",
+    "href": "Projects/projects.html#cfrna-based-sepsis-detection-pipeline-industry-project-2025",
+    "title": "Projects",
+    "section": "",
+    "text": "Context: Built a pipeline for cfRNA analysis to support sepsis diagnostics.\n\nApproach: Integrated multi-omics and single-cell RNA-seq reference data for cell-type deconvolution and biomarker discovery.\n\nOutcome: Developed a deployable workflow integrated into the company’s LIMS system."
+  },
+  {
+    "objectID": "Projects/projects.html#bioinformatics-pipelines-ongoing",
+    "href": "Projects/projects.html#bioinformatics-pipelines-ongoing",
+    "title": "Projects",
+    "section": "",
+    "text": "Context: Open-source pipelines for genomics and transcriptomics data analysis.\n\nApproach: Built in WDL/Docker; designed for reproducibility and scalability on Linux/HPC environments.\n\nOutcome: Publicly available on GitHub; includes workflows for single-cell RNA-seq, RNA-seq, and cfDNA methylation analysis.\n\nLinks: GitHub Repository"
   }
 ]

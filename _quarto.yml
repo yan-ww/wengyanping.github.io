@@ -23,8 +23,8 @@ website:
       - text: "Projects"
         href: Projects/projects.qmd
       
-      - text: "Publications"
-        href: Publication/publication.qmd
+      - text: "Research outputs"
+        href: Publication/publications.qmd
         
       #- text: "R packages"
       #  href: rpkg/rpkg.qmd
@@ -39,7 +39,7 @@ website:
         href: about_me.qmd
         
       - text: "CV"
-        href: misc\info\CV_for_personal_page.pdf
+        href: misc/info/CV_for_personal_page.pdf
 
 
 format:

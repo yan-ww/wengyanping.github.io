@@ -1,0 +1,13 @@
+## About Me
+
+My name is Yanping Weng, and I am passionate about using computational approaches to understand biology and medicine.  
+
+I hold a Master’s degree in Bioinformatics from Fudan University, where I worked on transcriptomic data from patients with refractory epilepsy. In my thesis project, I applied statistical and network-based machine learning methods to identify molecular subtypes and regulatory patterns, an experience that deepened my motivation to bridge computational biology with clinical relevance.
+
+After graduation, I joined GenePlus as a Bioinformatics Scientist, where I worked on cfDNA methylation– and cfRNA-based diagnostics for organ transplantation and sepsis. In these projects, I developed scalable pipelines using WDL and Docker, implemented algorithms such as NNLS and MLE, and integrated biological insights into clinically oriented workflows. These experiences taught me how to manage large, heterogeneous datasets, ensure reproducibility, and translate computational models into applications with real-world impact.
+
+I also gained hands-on experience analyzing single-cell RNA-seq data to identify cell-type–specific expression markers, which sparked my continuing interest in single-cell and multi-omics approaches. Beyond my professional work, I maintain a GitHub repository where I share analysis workflows and scripts for genomics and transcriptomics, reflecting my commitment to open science and reproducibility.
+
+Looking ahead, I am eager to pursue a PhD in computational biology, with particular interest in combining **machine learning, multi-omics, and systems medicine**. My long-term goal is to contribute to the development of computational methods that advance our understanding of disease mechanisms and enable precision medicine.
+
+Outside of research, I enjoy writing, learning new programming languages, and following advances at the interface of AI and biology. This website is a place where I share my projects, publications, and thoughts along the way.

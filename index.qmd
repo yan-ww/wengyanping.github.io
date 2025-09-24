@@ -1,6 +1,6 @@
 ---
 title: "Yanping Weng"
-image: misc/info/photo.jpg
+image: misc/info/photo.png
 about:
   id: hero-heading
   template: trestles
@@ -20,9 +20,12 @@ about:
 
 ::: {#hero-heading}
 
-Hello! 
+Hello, and welcome!  
 
-I am pursuing a Phd position in bioinformatics.
+I am Yanping Weng, a bioinformatics scientist with a Master’s degree from Fudan University.  
 
-I enjoy cooking and spending time in the mountains.
+My research focuses on computational genomics, single-cell and multi-omics analysis, and machine learning for biomarker discovery.  
+
+I am currently preparing for PhD studies to further explore the intersection of artificial intelligence and biomedical research.  
+
 :::

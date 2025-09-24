@@ -1,0 +1,39 @@
+# Projects
+
+Here is a selection of my research and applied projects in bioinformatics, spanning transcriptomics, liquid biopsy, and workflow development.
+
+---
+
+## Transcriptomic Subtypes of Refractory Epilepsy (Master’s Thesis, 2024)
+
+- **Context:** Independent research project at Fudan University, focusing on transcriptomic data from patients with refractory epilepsy.  
+- **Approach:** Applied statistical machine learning and weighted correlation network analysis to identify molecular subtypes and regulatory patterns.  
+- **Outcome:** Identified two molecular subtypes with distinct regulatory networks. First-author manuscript submitted to *Epilepsia* (under review).   
+
+---
+
+## cfDNA Methylation Assay for Kidney Transplant Rejection (Industry Project, 2025)
+
+- **Context:** Developed diagnostic tools for transplantation monitoring at GenePlus.  
+- **Approach:** Designed methylation-based classifiers using NNLS and MLE; implemented scalable workflows with WDL/Docker.  
+- **Outcome:** Contributed to the **“YiZhiAn” liquid biopsy assay** for clinical application.  
+- **Links:** [Assay Introduction](https://bydrug.pharmcube.com/news/detail/83e52b6acbc8540bc55084e2d2d9b076)  
+
+---
+
+## cfRNA-based Sepsis Detection Pipeline (Industry Project, 2025)
+
+- **Context:** Built a pipeline for cfRNA analysis to support sepsis diagnostics.  
+- **Approach:** Integrated multi-omics and single-cell RNA-seq reference data for cell-type deconvolution and biomarker discovery.  
+- **Outcome:** Developed a deployable workflow integrated into the company’s LIMS system.  
+
+---
+
+## Bioinformatics Pipelines (Ongoing)
+
+- **Context:** Open-source pipelines for genomics and transcriptomics data analysis.  
+- **Approach:** Built in WDL/Docker; designed for reproducibility and scalability on Linux/HPC environments.  
+- **Outcome:** Publicly available on GitHub; includes workflows for single-cell RNA-seq, RNA-seq, and cfDNA methylation analysis.  
+- **Links:** [GitHub Repository](https://github.com/yan-ww)  
+
+---
