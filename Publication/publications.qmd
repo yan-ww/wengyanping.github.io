@@ -1,10 +1,10 @@
 ## Publications
 
-### Manuscripts
+### Journal Articles
 1. **Weng Y**, Ma Y, Hou W, Li H, Zhou Y, Zhao R, et al. *Decoding epilepsy’s molecular blueprint: Machine learning
 unravels transcriptomic subtypes and regulatory networks.* Epilepsia. 2026;00:1–15. https://doi.org/10.1002/epi.70161
 
-### Theses
+### Thesis
 - **Master’s Thesis (2024):** *Integrative transcriptomic analysis of brain lesions in refractory epilepsy using network-based machine learning.*  
   Fudan University, Human Phenome Institute.
 
