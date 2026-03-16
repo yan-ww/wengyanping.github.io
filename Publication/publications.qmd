@@ -1,8 +1,8 @@
 ## Publications
 
 ### Manuscripts
-1. **Yanping Weng**, Yu Ma, Li Jin, Yi Wang,Yu An. *Transcriptomic subtypes and regulatory patterns of refractory epilepsy revealed by network-based analysis.*  
-   Submitted to *Epilepsia*, currently under review.
+1. **Weng Y**, Ma Y, Hou W, Li H, Zhou Y, Zhao R, et al. *Decoding epilepsy’s molecular blueprint: Machine learning
+unravels transcriptomic subtypes and regulatory networks.* Epilepsia. 2026;00:1–15. https://doi.org/10.1002/epi.70161
 
 ### Theses
 - **Master’s Thesis (2024):** *Integrative transcriptomic analysis of brain lesions in refractory epilepsy using network-based machine learning.*  

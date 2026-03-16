@@ -22,10 +22,10 @@ about:
 
 Hello, and welcome!  
 
-I am Yanping Weng, a bioinformatics scientist with a Master’s degree from Fudan University.  
+I am Yanping Weng, with a Master’s degree in Bioinformatics from Fudan University.
 
-My research focuses on computational genomics, single-cell and multi-omics analysis, and machine learning for biomarker discovery.  
+My research focuses on computational genomics, single-cell and multi-omics analysis, and machine learning for disease subtype and biomarker discovery.  
 
-I am currently preparing for PhD studies to further explore the intersection of artificial intelligence and biomedical research.  
+I am currently seeking PhD opportunities in computational biology and cancer genomics.
 
 :::
